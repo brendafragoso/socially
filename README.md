@@ -1,8 +1,8 @@
 <h1>Social App ✨</h1>
 
-[Home do Projeto](/public/screenshot-for-readme.png)
+<img src="/public/screenshot-for-readme.png" alt="Preview da Aplicação">
 
-Destaques do Projeto:
+<h2>Destaques do Projeto:</h2>
 
 🚀 Tecnologias utilizadas: Next.js App Router, Postgres, Prisma, Clerk & TypeScript
 💻 Recursos do Next.js: Server Components, Layouts, Route Handlers, Server Actions
@@ -18,7 +18,7 @@ Destaques do Projeto:
 🚀 Formulários: Server Actions
 ⚡ Otimização: Atualizações Otimistas
 
-Configuração do Ambiente (.env):
+<h2>Configuração do Ambiente (.env):</h2>
 
 env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -28,6 +28,4 @@ UPLOADTHING_TOKEN=
 
 
 Como executar o projeto:
-
-bash
 npm run dev
