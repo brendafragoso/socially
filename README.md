@@ -1,3 +1,7 @@
+<h1>Social App ✨</h1>
+
+[Home do Projeto](/public/screenshot-for-readme.png)
+
 Destaques do Projeto:
 
 🚀 Tecnologias utilizadas: Next.js App Router, Postgres, Prisma, Clerk & TypeScript
